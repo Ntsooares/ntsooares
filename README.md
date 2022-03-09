@@ -1,4 +1,4 @@
-<div align="center"><strong> Hey! Atualmente estou estudando BOOTSTRAP </strong></div><br>
+<div align="center"><strong> Hey! Me chamo Neto, sou Autodidata e Atualmente estou estudando desenvolvimento Front-End </strong></div><br>
 
 <div align="center">
   <a href="https://github.com/ntsooares">
