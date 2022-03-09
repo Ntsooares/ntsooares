@@ -1,9 +1,9 @@
-<div align="center"><strong> Hey! Me chamo Neto, sou Autodidata e Atualmente estou estudando desenvolvimento Front-End </strong></div><br>
+<div align="center"><strong> Hey! Me chamo Neto, sou autodidata e atualmente estou estudando desenvolvimento Front-End </strong></div><br>
 
 <div align="center">
   <a href="https://github.com/ntsooares">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ntsooares&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsooares&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ntsooares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsooares&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
