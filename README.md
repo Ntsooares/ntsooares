@@ -8,13 +8,17 @@
   
 ##
   
+<h3 align="center"> Front-end </h3>
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Neto-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
   <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Neto-bootstrp" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div>
   
-  ##
+  
+ ##
  
 <div align="center" style="display: inline_block"> 
   <a href="https://instagram.com/netinhosooares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
